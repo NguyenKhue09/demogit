@@ -1,0 +1,14 @@
+ctrl + w : để xóa từng từ trong lệnh terminal.
+ctrl + -> or <- : di chuyển giữa các từ.
+nút lên : để qoay lại các lệnh trước.
+history : xem lại tất cả lệnh đã gõ.
+ctrl + l : xóa màn hình terminal.
+ctrl + r : để tìm kiếm các lệnh đã gõ và gõ thêm nút -> or <- để bung ra hoàn toàn câu lệnh tìm dc.
+ctrl + c : để ko chạy (bỏ qua) câu lệnh hiện tại.
+ctrl + shift + 5 : để mở thêm task terminal.
+ctrl + d : để xóa task terminal.
+pwd : xem hiện tại mình đang ở file nào.
+ls  : xem tất cả file nằm trong thư mục hiện tại.
+ls -a : xem cả file ẩn.
+man ls : xem tất cả các công cụ.(trong ubuntu).
+type nul > tenfile : tạo file mới
