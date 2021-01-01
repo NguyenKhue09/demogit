@@ -12,3 +12,9 @@ ls  : xem tất cả file nằm trong thư mục hiện tại.
 ls -a : xem cả file ẩn.
 man ls : xem tất cả các công cụ.(trong ubuntu).
 type nul > tenfile : tạo file mới
+less tenfile : để xem nội dung file và ấn Q để thoát.// lệnh cat cũng gần như thế.
+mkdir tenfolder : tạo folder.
+mv tenfile1 tenfile2 : đổi tên file 1 thành file2. tương tự lệnh cp là copy sang file khác.
+cp -r fd1 fd2 : copy folder.
+* Link video : https://www.youtube.com/watch?v=cbnM_elWYgs&list=PLkY6Xj8Sg8-tBawPQQS_n2a3Rje05WVia&index=2 và https://www.youtube.com/watch?v=s8q_KhxX7O8&list=PLkY6Xj8Sg8-tBawPQQS_n2a3Rje05WVia&index=1
+
